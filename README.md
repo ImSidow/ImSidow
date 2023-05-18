@@ -1,15 +1,27 @@
-<h1 align="center">Hi 👋, I'm Asad Ali Sidow</h1>
-<h3 align="center">A skilled web developer with **over 3 years of experience** building custom web applications. During my career, I've worked with 3 different companies and had the opportunity to build a wide variety of web applications, including inventory management systems, currency exchange platforms and e-government web apps. I am also an open-source contributor. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
+# Hi 👋, I'm **Asad Ali Sidow**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsidow&label=Profile%20views&color=0e75b6&style=flat" alt="imsidow" /> </p>
+A skilled web developer with **over 3 years of experience** building custom web applications. During my career, I've worked with 3 different companies and had the opportunity to build a wide variety of web applications, including inventory management systems, currency exchange platforms and e-government web apps.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsidow" alt="imsidow" /></a> </p>
+I am also an open-source contributor. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+<br>
 
-- 📝 I regularly write articles on [https://imsidow.hashnode.dev/](https://imsidow.hashnode.dev/)
+### **My Tech Stack**
 
-- 📫 How to reach me **sidow.code@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
+<code><img height="30" style="margin-right:5px" title="React js" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"></code>
+<code><img height="30" style="margin-right:5px" title="Typescript" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"></code>
+<code><img height="30" style="margin-right:5px" title="Tailwind CSS" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"></code>
+<code><img height="30" style="margin-right:5px" title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png"></code>
+<code><img height="30" style="margin-right:5px" title="Nest Js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png"></code>
+<code><img height="30" style="margin-right:5px" title="Next Js" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"></code>
+<code><img height="30" style="margin-right:5px" title="React Native" src="https://amsilabs.com/wp-content/uploads/2020/03/developpeur-react-native-mission-freelance-et-remote.jpg"></code>
+<code><img height="30" style="margin-right:5px" title="MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" style="margin-right:5px" title="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+### **Connect with me:**
+
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/im-sidow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="im-sidow" height="30" width="40" /></a>
 <a href="https://hashnode.com/@imsidow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@imsidow" height="30" width="40" /></a>
@@ -17,9 +29,19 @@
 <a href="https://www.leetcode.com/imsidow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imsidow" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsidow&show_icons=true&locale=en&layout=compact" alt="imsidow" /></p>
+### **My Github Stats**
+
+<br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=imsidow&show_icons=true&locale=en&layout=compact" alt="imsidow" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsidow&show_icons=true&locale=en" alt="imsidow" /></p>
+
+<br>
+
+### **For More**
+
+-   📝 I regularly write articles on [https://imsidow.hashnode.dev/](https://imsidow.hashnode.dev/)
+
+-   📫 How to reach me **sidow.code@gmail.com**
