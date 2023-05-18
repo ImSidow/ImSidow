@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asad Ali Sidow</h1>
-<h3 align="center">I am fullstack web developer. I use react, typescript and laravel / nest js to build reliable website.</h3>
+<h3 align="center">A skilled web developer with **over 3 years of experience** building custom web applications. During my career, I've worked with 3 different companies and had the opportunity to build a wide variety of web applications, including inventory management systems, currency exchange platforms and e-government web apps. I am also an open-source contributor. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsidow&label=Profile%20views&color=0e75b6&style=flat" alt="imsidow" /> </p>
 
