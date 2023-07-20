@@ -2,7 +2,7 @@
 
 A skilled web developer with **over 3 years of experience** building custom web applications. During my career, I've worked with 3 different companies and had the opportunity to build a wide variety of web applications, including inventory management systems, currency exchange platforms and e-government web apps.
 
-I am also an open-source contributor. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 <br>
 
 ### **My Tech Stack**
